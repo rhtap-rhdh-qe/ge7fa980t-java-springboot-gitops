@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ge7fa980t-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ge7fa980t-java-springboot
